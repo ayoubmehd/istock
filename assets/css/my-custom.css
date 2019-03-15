@@ -1,0 +1,14 @@
+.table-responsive .table td {
+    max-width: 100px;
+}
+
+.table-responsive .table td button,
+.table-responsive .table td a {
+
+    cursor: pointer;
+    font-size: 12px;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 12px 10px;
+
+}
